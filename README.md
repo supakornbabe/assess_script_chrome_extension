@@ -12,7 +12,7 @@ https://chrome.google.com/webstore/detail/assess-ku/iehlgalngbjkhconfcmbhbgfpcab
 ### Usage
 
 1. เข้าไปที่หน้าประเมิน
-2. กดประเมิน (อยู่ในหน้าที่ต้องประเมิน ข้อ 1..2...10)
+2. กดปุ่มประเมิน (เพื่อเข้าไปอยู่ในหน้าที่ต้องประเมิน ข้อ 1..2...10 ..ดีมาก-ดี-พอใช้)
 3. กด Icon (รูป A ขวามือบน toolbar) เพื่อ auto checked
 4. กดปุ่ม submit เอง
 5. กลับไปทำข้อ 1

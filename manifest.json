@@ -2,7 +2,7 @@
   "name": "Assess KU",
   "version": "0.1",
   "manifest_version": 2,
-  "description": "Does some simple stuff",
+  "description": "pika pika",
 
   "background": {
     "scripts": ["background.js"],
